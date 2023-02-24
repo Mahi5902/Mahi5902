@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **HTML,CSS PROJECTS**
 
-- 🌱 I’m currently learning **HTML, CSS**
+- 🌱 I’m currently learning **HTML, CSS,DSA**
 
 - 💬 Ask me about **DSA,HTML,CSS**
 
