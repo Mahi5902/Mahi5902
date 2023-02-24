@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mahi Yadav</h1>
 <h3 align="center">I am a student from India.</h3>
-<img align="right" alt="coding" width="200" src="https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif">
+<img align="center" alt="coding" width="500" height="200" src="https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif">
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mahi5902&label=Profile%20views&color=0e75b6&style=flat" alt="mahi5902" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahi5902" alt="mahi5902" /></a> </p>
