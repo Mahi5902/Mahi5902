@@ -3,7 +3,7 @@
 <!-- <img align="center" alt="coding" width="600" height="400" src="https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif"> -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahi5902&label=Profile%20views&color=0e75b6&style=flat" alt="mahi5902" /> </p>
 
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahi5902" alt="mahi5902" /></a> </p> -->
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahi5902" alt="mahi5902" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/mahiyad37541151" target="blank"><img src="https://img.shields.io/twitter/follow/mahiyad37541151?logo=twitter&style=for-the-badge" alt="mahiyad37541151" /></a> </p>
 
