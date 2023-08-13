@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/mahiyad37541151" target="blank"><img src="https://img.shields.io/twitter/follow/mahiyad37541151?logo=twitter&style=for-the-badge" alt="mahiyad37541151" /></a> </p>
 
-- 🔭 I’m currently working on **HTML,CSS PROJECTS**
+- 🔭 I’m currently working on **Frontend Projects**
 
 - 🌱 I’m currently learning **HTML, CSS,DSA**
 
