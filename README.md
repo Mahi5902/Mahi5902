@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on **Frontend Projects**
 
-- 🌱 I’m currently learning **HTML, CSS,DSA**
+- 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **DSA,HTML,CSS**
+- 💬 Ask me about **DSA,frontend development**
 
 - 📫 How to reach me **mahiyadav5902@gmail.com**
 
