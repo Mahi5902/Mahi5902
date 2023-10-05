@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Frontend Developer</h1>
-[![An image of @mahi5902's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mahi5902)](https://holopin.io/@mahi5902)
+(https://holopin.me/mahi5902)](https://holopin.io/@mahi5902)
 <!-- <h3 align="center">I am a student from India.</h3> -->
 <img align="right" alt="coding" width="400"  src="https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahi5902&label=Profile%20views&color=0e75b6&style=flat" alt="mahi5902" /> </p>
