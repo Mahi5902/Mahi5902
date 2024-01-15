@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Frontend Developer</h1>
+<h1 align="center">Hi 👋, I'm fullstack Developer</h1>
 
 
 <img align="right" alt="coding" width="400"  src="https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif">
@@ -6,15 +6,13 @@
 
 <p align="left"> <a href="https://twitter.com/mahiyad37541151" target="blank"><img src="https://img.shields.io/twitter/follow/mahiyad37541151?logo=twitter&style=for-the-badge" alt="mahiyad37541151" /></a> </p 
 
-- 🔭 I’m currently working on **Frontend Projects.**
+- 🔭 I’m currently working on **Fullstack Projects.**
 
 - 🌱 I’m currently learning **FullSack**
 
-- 💬 Ask me about **DSA,Frontend Development.**
+- 💬 Ask me about **DSA,Fullstack Development.**
 
 - 📫 How to reach me **mahiyadav5902@gmail.com**
-
-- ⚡ Fun fact **I am not funny.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
